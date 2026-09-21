@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - CRITICAL] outage_reliability — Feedback #4
+
+Customer: Clara Tanuwijaya (clara.t@example.com)
+Channel: email
+Date: 6/22/2026
+Topic: outage_reliability
+Sentiment: negative
+Severity: critical
+
+Original message:
+"This is the third outage this month. If it happens again I am cancelling our team plan and moving to a competitor. We cannot run our business on this."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Clara,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We understand repeated outages are unacceptable, and our engineering team is prioritizing a permanent fix.
+
+We're treating this as critical priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - HIGH] data_integrity — Feedback #25
+
+Customer: Bagus Santoso (bagus.santoso@example.com)
+Channel: email
+Date: 6/16/2026
+Topic: data_integrity
+Sentiment: negative
+Severity: high
+
+Original message:
+"The numbers in my monthly revenue report do not match what I see in the live dashboard. I need to trust these figures before I send them to my board."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Bagus,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We're reviewing the discrepancy in your report numbers so you can trust the figures before sharing them.
+
+We're treating this as high priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

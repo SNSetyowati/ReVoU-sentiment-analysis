@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - HIGH] security_privacy — Feedback #5
+
+Customer: Daniel Hutapea (daniel.hutapea@example.com)
+Channel: email
+Date: 6/22/2026
+Topic: security_privacy
+Sentiment: negative
+Severity: high
+
+Original message:
+"When I opened my dashboard I could see another customer's invoices and email address. This is a serious privacy problem and you need to look into it today."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Daniel,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We take this very seriously and have escalated it to our security team for immediate investigation.
+
+We're treating this as high priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

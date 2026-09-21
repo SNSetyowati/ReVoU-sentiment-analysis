@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - CRITICAL] authentication — Feedback #2
+
+Customer: Siti Rahmawati (siti.rahmawati@example.com)
+Channel: in-app
+Date: 6/22/2026
+Topic: authentication
+Sentiment: negative
+Severity: critical
+
+Original message:
+"I cannot log in at all since this morning. It keeps saying invalid session and I have a client presentation in two hours. I need this fixed now."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Siti,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We're investigating the login issue affecting your account and working to restore access immediately.
+
+We're treating this as critical priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

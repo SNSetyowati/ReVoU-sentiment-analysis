@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - CRITICAL] data_loss — Feedback #3
+
+Customer: Bayu Pratama (bayu.pratama@example.com)
+Channel: chat
+Date: 6/22/2026
+Topic: data_loss
+Sentiment: negative
+Severity: critical
+
+Original message:
+"All of my saved projects from last week have disappeared. Three days of work are just gone. Is there any way to recover them? I am panicking."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Bayu,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We're checking our backups now to see whether your recent work can be recovered, and will update you as soon as we know more.
+
+We're treating this as critical priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

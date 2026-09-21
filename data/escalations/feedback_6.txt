@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - CRITICAL] bug — Feedback #6
+
+Customer: Mega Lestari (mega.lestari@example.com)
+Channel: in-app
+Date: 6/21/2026
+Topic: bug
+Sentiment: negative
+Severity: critical
+
+Original message:
+"The editor crashes every time I paste a large table. It has happened more than ten times today and I keep losing my changes. This is blocking my work."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Mega,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We're looking into this right away and will keep you updated.
+
+We're treating this as critical priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----

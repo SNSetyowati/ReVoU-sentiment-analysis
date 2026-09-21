@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - HIGH] billing_payment — Feedback #19
+
+Customer: Arif Setiawan (arif.setiawan@example.com)
+Channel: in-app
+Date: 6/18/2026
+Topic: billing_payment
+Sentiment: negative
+Severity: high
+
+Original message:
+"My payment keeps failing when I try to upgrade to the annual plan, so I am stuck on monthly. I want to pay you, please help me give you money."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Arif,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We've flagged the billing issue on your account and are working to correct the charge as quickly as possible.
+
+We're treating this as high priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----
