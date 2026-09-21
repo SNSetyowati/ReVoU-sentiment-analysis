@@ -1,0 +1,23 @@
+To: support-lead@example.com
+Subject: [Escalation - CRITICAL] billing_payment — Feedback #1
+
+Customer: Andre Wijaya (andre.wijaya@example.com)
+Channel: email
+Date: 6/22/2026
+Topic: billing_payment
+Sentiment: negative
+Severity: critical
+
+Original message:
+"I was charged twice for my June subscription and the second charge put my card over its limit. Please refund the duplicate immediately, this is unacceptable."
+
+Suggested reply to customer (please review before sending):
+-----
+Hi Andre,
+
+Thank you for reaching out, and I'm sorry for the trouble this has caused. We've flagged the billing issue on your account and are working to correct the charge as quickly as possible.
+
+We're treating this as critical priority and our team is on it now. I'll follow up with an update shortly.
+
+— Support Team
+-----
